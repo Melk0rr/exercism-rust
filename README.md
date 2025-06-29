@@ -9,6 +9,7 @@ My exercism.org Rust exercises
 | [hello-world](./hello-world) |  |  |
 | [reverse-string](./reverse-string) |  |  |
 | [gigasecond](./gigasecond) |  |  |
+| [clock](./clock) |  |  |
 
 
 ## Concepts
@@ -24,6 +25,7 @@ My exercism.org Rust exercises
 <summary>Dates</summary>
 
 - [gigasecond](./gigasecond)
+- [clock](./clock)
 </details>
 ### Subjects
 
